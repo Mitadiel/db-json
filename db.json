@@ -1,0 +1,27 @@
+{"CourseCard":  [
+    {   
+        "id" : 1,
+        "title": "Trabajo Remoto",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/8ab1c233-9f8d-4f75-b0a8-5bd57a528aa0.png",
+        "price": "50",
+        "prof": "Priscila Bersan"    
+    },
+    {
+        "id" : 2,
+        "title": "Marketing",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/427ef383-8ee8-4efb-9dff-cca05bf8dafa.png",
+        "price": "40",
+        "prof": "Priscila Bersan"
+    },
+    {
+        "id" : 3,
+        "title": "Libreria Javascript",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/e8207ec4-e9a7-4cba-86a8-ee80c443a37f.jpg",
+        "price": "60",
+        "prof": "Ezequiel Mitadiel"
+    },
+    {
+        
+    }
+]
+}
